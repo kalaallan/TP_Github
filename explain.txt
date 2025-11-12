@@ -1,0 +1,3 @@
+Nous avons rétiré la variable test comme paramètre
+Nous avons fait en sorte que la fonction ne retourne que le model entrainé
+Nous avons modifié le commentaire
