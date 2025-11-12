@@ -17,6 +17,5 @@ test_X= test[['SepalLengthCm','SepalWidthCm','PetalLengthCm','PetalWidthCm']]
 #target value of test data
 test_y =test.Species   
 
-
-
+model = svm.SVC(kernel='linear')
 prediction = train_model(train_X, train_y, test_X, model)
