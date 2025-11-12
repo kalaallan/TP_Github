@@ -1,0 +1,2 @@
+Nous avons divisé la taille des données de test par 2
+Nous avons un random_state pour avoir le même résultat à chaque réentrainement
